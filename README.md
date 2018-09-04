@@ -1,4 +1,4 @@
-# TravelPlanning_SampleSite_CA
+# travel-planning-website
 A sample site for a travel planning business. 
 
 Try it out here:
